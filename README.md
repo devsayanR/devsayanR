@@ -6,7 +6,7 @@
 <img src="https://github.com/devsayanR/devsayanR/assets/145536447/6214e682-def3-4dd7-8a7d-acd0c657ef54">
 
 
-📫 To reach me - [sayanrakshit.netlify.app](https://sayanrakshit.netlify.app)
+📫 To reach me - [https://sayanrakshit.vercel.app](https://sayanrakshit.vercel.app)
 
 👨‍💻 All of my projects are available at **https://github.com/devsayanR**
 
